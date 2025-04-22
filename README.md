@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Laravel Learning Management System
 
 <p align="center ">
@@ -56,5 +55,3 @@ If you discover a security vulnerability within this app, please send an e-mail 
 
 This application is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
-# E-LMS
->>>>>>> c5930000be832d1efc179132f29a9776509816dc
