@@ -1,0 +1,41 @@
+/* Replacing 'irs' font with Arial (for bold text) */
+@font-face {
+    font-family: arial;
+    font-style: normal;
+    font-weight: bold;
+    src: local('Arial-Bold'), local('Arial');
+}
+
+@font-face {
+    font-family: arial;
+    font-style: normal;
+    font-weight: 500;
+    src: local('Arial-Medium'), local('Arial');
+}
+
+@font-face {
+    font-family: arial;
+    font-style: normal;
+    font-weight: 300;
+    src: local('Arial-Light'), local('Arial');
+}
+
+@font-face {
+    font-family: arial;
+    font-style: normal;
+    font-weight: 200;
+    src: local('Arial-UltraLight'), local('Arial');
+}
+
+@font-face {
+    font-family: arial;
+    font-style: normal;
+    font-weight: normal;
+    src: local('Arial-Regular'), local('Arial');
+}
+
+
+@font-face {
+    font-family: arial;
+    src: local('Arial-Regular'), local('Arial');
+}

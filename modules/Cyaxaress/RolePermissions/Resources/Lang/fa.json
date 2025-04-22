@@ -1,0 +1,14 @@
+{
+    "manage categories": "Manage Categories",
+    "manage role_permissions": "Manage Role Permissions",
+    "manage courses": "Manage Courses",
+    "manage users": "Manage Users",
+    "teach": "Teach",
+    "manage own courses": "Manage Own Courses",
+    "teacher": "Teacher",
+    "student": "Student",
+    "super admin": "Super Admin",
+    "manage payments": "Manage Payments",
+    "manage settlements": "Manage Settlements",
+    "manage discounts": "Manage Discounts"
+}

@@ -1,0 +1,7 @@
+{
+    "success": "Successful",
+    "fail": "Unsuccessful",
+    "canceled": "Canceled",
+    "settled": "Settled",
+    "cancelled": "Canceled"
+}

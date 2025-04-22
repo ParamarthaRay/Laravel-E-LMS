@@ -1,0 +1,11 @@
+{
+    "free" : "Free",
+    "cash" : "Cash",
+    "completed" : "Completed",
+    "not-completed" : "Ongoing",
+    "locked" : "Locked",
+    "opened" : "Opened",
+    "accepted" : "Accepted",
+    "rejected" : "Rejected",
+    "pending" : "Pending"
+}
