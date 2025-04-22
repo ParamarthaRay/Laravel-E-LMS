@@ -1,4 +1,4 @@
-#Laravel Learning Management System
+##Laravel Learning Management System
 
 <p align="center ">
 </p>
@@ -51,7 +51,4 @@ If you want to learn Modular structure and how this app developed join my online
 
 If you discover a security vulnerability within this app, please send an e-mail to Paramartha Ray via [rayparamartha@gmail.com](mailto:rayparamartha@gmail.com). All security vulnerabilities will be promptly addressed.
 
-## License
-
-This application is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 =======
