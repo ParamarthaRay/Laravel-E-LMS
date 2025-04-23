@@ -36,3 +36,4 @@ EXPOSE 80
 
 # Start container with custom script
 CMD ["/start.sh"]
+#
