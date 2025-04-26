@@ -1,8 +1,5 @@
 ##Laravel Learning Management System
 
-<p align="center ">
-</p>
-
 ## About This Project
 
 This project is a Learning Management System developed with Laravel framework in modular structure. Each feature in this application developed in an isolated module, such as:
